@@ -1,6 +1,6 @@
 # crossitron
 
-A foldable printer inspired by [X Printer](https://hackaday.io/project/180369-x-printer-v2). honey is a foldable reprap printer that employs an upside-down bed design. Designed for efficiency and portability, without trade-offs.
+A foldable printer inspired by [X Printer](https://hackaday.io/project/180369-x-printer-v2). crossitron is a foldable reprap printer that employs an upside-down bed design. Designed for efficiency and portability, without trade-offs.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6a6c3749-f84e-42bc-a9b9-dca80a2fdef3" width="45%" />
