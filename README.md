@@ -20,7 +20,7 @@
 
 # Credits
 This project is based on the following community projects:
-- [Lemontron](https://lemontron.com), which is based on the [Positron](https://positron3d.com/), for the chassis and X-Y motion system design. 
+- [Lemontron](https://lemontron.com), which is based on the [Positron](https://positron3d.com/), for the chassis, X-Y motion system, toolhead and extruder design inspiration. 
 - [X Printer](https://hackaday.io/project/180369-x-printer-v2) - Original Inspiration and Z-Axis Design
 - [3Demo](https://www.youtube.com/watch?v=nRvL-KlX-9w)- Scissor Lift Motion mods for the X printer
 
