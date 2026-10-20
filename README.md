@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Crossitron</h1>
 
-  A compact foldable 3D printer with a Scissor-Lift Z-axis mechanism.
+  <img   style="max-width: 80%; height: auto;"  alt="final-build-folded" src="https://github.com/user-attachments/assets/8232040e-c58b-42b8-8370-9747aa19770f" />
+A compact foldable 3D printer with a Scissor-Lift Z-axis mechanism.
 </div>
 
-
-## Goal
+Crossitron is an upside down printer based on a scissor-lift architecture and a completely 3D-printed chassis.
 
 
 # Features
@@ -26,8 +26,8 @@ This project is based on the following community projects:
 
 
 # Images 
-
-
+<img width="2304" height="4096" alt="final-build" src="https://github.com/user-attachments/assets/f1c4c7f4-a1f1-42c3-957c-22f70192f363" />
+<img width="2304" height="4096" alt="build-1" src="https://github.com/user-attachments/assets/d1773f1c-352c-4cef-97ec-e4ee29f6189e" />
 
 
 
