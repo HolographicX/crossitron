@@ -1,11 +1,14 @@
 <div align="center">
   <h1>Crossitron</h1>
 
-  <img   style="max-width: 80%; height: auto;"  alt="final-build-folded" src="https://github.com/user-attachments/assets/8232040e-c58b-42b8-8370-9747aa19770f" />
+  <img  style="max-width: 80%; height: auto;"  alt="final-build-folded" src="https://github.com/user-attachments/assets/8232040e-c58b-42b8-8370-9747aa19770f" />
+
 A compact foldable 3D printer with a Scissor-Lift Z-axis mechanism and a fully 3D Printed Chassis.
 </div>
 
-https://github.com/user-attachments/assets/5c2c1c96-5cf7-40c9-b983-08f9e2501269
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/5c2c1c96-5cf7-40c9-b983-08f9e2501269" width="100%" controls></video>
+  </p>
 
 # Features
 - Scissor Lift integrated Z-axis, foldable design
