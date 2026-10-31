@@ -6,9 +6,8 @@
 A compact foldable 3D printer with a Scissor-Lift Z-axis mechanism and a fully 3D Printed Chassis.
 </div>
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/efa4d9cb-7c95-4360-846b-f3cbfdeaa151" width="100%" controls></video>
-</p>
+
+https://github.com/user-attachments/assets/f13290de-9748-48bf-9590-2fcc3fee3b01
 
 # Features
 - Scissor Lift integrated Z-axis, foldable design
